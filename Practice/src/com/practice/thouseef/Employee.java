@@ -1,4 +1,4 @@
-package com.capgemini.model;
+package com.practice.thouseef;
 
 public class Employee  {
 
